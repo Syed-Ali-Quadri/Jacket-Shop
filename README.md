@@ -56,6 +56,11 @@ This project is a simple, responsive web page for a jacket shop. It includes a n
 - Implement a backend to manage products and user interactions.
 
 ## Credits
-[Designer](https://dribbble.com/remonleijtens)
-[Model](https://www.behance.net/gallery/26027609/Masha-(model-test))
+- [Designer](https://dribbble.com/remonleijtens)
+- [Model](https://www.behance.net/gallery/26027609/Masha-(model-test))
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/Syed-Ali-Quadri/jacket-shop.git
 
